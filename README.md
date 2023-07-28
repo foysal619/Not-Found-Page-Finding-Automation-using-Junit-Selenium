@@ -1,4 +1,4 @@
-# Not-Found-Page-Finding-using-Junit-Selenium
+# Not-Found-Page-Finding-Automation-using-Junit-Selenium
 In this repository, I have automated 110 URLs dynamically which takes from JSON file each URL to find and assert which pages exist and which pages are not created in the website using Junit and Selenium.
 
 ## Technology used:
