@@ -1,5 +1,5 @@
 # Not-Found-Page-Finding-using-Junit-Selenium
-In this repository, I have automated 110 URLs to find and assert which pages exist and which pages are not created in the website using Junit and Selenium
+In this repository, I have automated 110 URLs dynamically which takes from JSON file each URL to find and assert which pages exist and which pages are not created in the website using Junit and Selenium.
 
 ## Technology used:
 - IntelliJ 
@@ -15,7 +15,7 @@ In this repository, I have automated 110 URLs to find and assert which pages exi
 - Select the "build.gradle" file and Open as Project
 
 ## Assigned work scenario:
-Automate 110 urls dynamically and assert which pages are exist and which pages are "not found" in the website.
+Automate 110 URLs dynamically which takes from JSON file each URL to find and assert which pages exist and which pages are not created in the website.
 
 ## Prerequisite:
 **Some Dependencies are required to run this project. These dependencies are**
